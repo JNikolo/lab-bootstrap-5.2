@@ -1,1 +1,8 @@
 /* Add custom css styles here */
+#cookie-header {
+    background-image: url('../images/coffee-biscuits.jpg'); 
+}
+#bakers-image {
+    height: 200px;
+    width: auto;
+}
