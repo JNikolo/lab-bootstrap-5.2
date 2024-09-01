@@ -1,6 +1,14 @@
 /* Add custom css styles here */
-#cookie-header {
+header {
+    height: 400px;
     background-image: url('../images/coffee-biscuits.jpg'); 
+    background-size: cover; /* Ensures the image covers the entire header */
+    background-repeat: no-repeat;
+    background-position: center; /* Centers the background image */
+}
+.header-text{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 25px;
 }
 #bakers-image {
     height: 200px;
